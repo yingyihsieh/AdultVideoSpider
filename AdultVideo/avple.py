@@ -166,6 +166,7 @@ def demo(url):
     hash_tags = [i.decode() for i in hash_tags]
     print(hash_tags)
 if __name__ == '__main__':
-    demo('your url')
+    # git demo2
+    # git demo1
     avs = AvpleSpider()
     avs.run()
