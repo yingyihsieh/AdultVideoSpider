@@ -238,6 +238,7 @@ def downloadVideo(url):
 
 
 if __name__ == '__main__':
+    # git test (bug1 OK)
     # js = JableSpider()
     # js.run()
     downloadVideo(url='https://jable.tv/videos/ssis-400/')
